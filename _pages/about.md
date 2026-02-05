@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-大家好，我是姚浩涛！目前就读于**[合肥工业大学]（https://www.hfut.edu.cn/）**物流工程与管理研究生一年级。
+大家好，我是姚浩涛！目前就读于**[合肥工业大学](https://www.hfut.edu.cn/)**物流工程与管理研究生一年级。
 我的研究兴趣与方向主要集中于**车辆与无人机协同路径规划**，研究在多仓库多无人机多车辆条件下的实时路径规划。
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
