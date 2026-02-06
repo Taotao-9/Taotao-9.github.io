@@ -33,9 +33,9 @@ Hello everyone, I'm Haotao Yao! I'm currently a first-year graduate student in L
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Multi-depot electric vehicle routing problem with drones considering time-dependent traffic]((https://linkinghub.elsevier.com/retrieve/pii/S1474034625009012))
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Hao Fan**, Kai Liu, Jiangbo Wang, Jian Zhao
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -53,7 +53,7 @@ Hello everyone, I'm Haotao Yao! I'm currently a first-year graduate student in L
 - *2023.07* xxxx大学“优秀班干部”
 # 📖 Educations
 - *2025.06 -  now*, 合肥工业大学，物流工程与管理专业，车辆与无人机协同路径规划研究方向，师从[谢睿达](https://ruida-xie.github.io/)老师。
-- *2020.09 - 2024.06*, 合肥大学，工商管理专业，平均绩点：x.xx
+- *2020.09 - 2024.06*, 合肥大学，工商管理专业，平均绩点：x.xx。
 
 
 # 💻 Internships
