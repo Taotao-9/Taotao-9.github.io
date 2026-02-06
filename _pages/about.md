@@ -24,8 +24,9 @@ Hello everyone, I'm Haotao Yao! I'm currently a first-year graduate student in L
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 参加“第 X 届中国物流学术年会”，上海
+- *2024.09*: &nbsp;🎉🎉 关于“多无人机协同路径规划”的最新综述论文已投稿至《xxxxx》期刊。
+- *2023.09*: &nbsp;🎉🎉 已在 GitHub 上发布针对 VRP 问题的 Python 基础算法库。
 
 # 📝 Publications 
 
@@ -44,16 +45,20 @@ Hello everyone, I'm Haotao Yao! I'm currently a first-year graduate student in L
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2025.09* 荣获硕士研究生学业x等奖学金，合肥工业大学
+- *2024.09* 获全国大学生xxxx竞赛国家/省x等奖，合肥工业大学
+- *2024.09* 获全国大学生xxxx竞赛国家/省x等奖，合肥工业大学
+- *2024.07* 获评普通高等学校省级“优秀毕业生”，安徽省
+- *2023.07* xxxx大学“三好学生”
+- *2023.07* xxxx大学“优秀班干部”
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06 -  now*, 合肥工业大学，物流工程与管理专业，车辆与无人机协同路径规划研究方向，师从[谢睿达](https://ruida-xie.github.io/)老师。
+- *2020.09 - 2024.06*, 合肥大学，工商管理专业，平均绩点：x.xx
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.06 – 2024.09*, 京东物流 (JD Logistics) | 算法实习生，中国北京
+- 项目描述：参与“最后一公里”智能配送路径优化系统开发。
+负责城市末端多点配送路径规划（VRP）的算法实现，利用 Python 调用 Gurobi 求解器进行模型求解。
+针对车辆与无人机协同配送场景，设计并对比了贪婪算法与禁忌搜索算法的优化效率。
+处理百万级配送订单数据，通过经纬度聚类分析优化了配送区域划分，使平均配送时长缩短了 12%。
