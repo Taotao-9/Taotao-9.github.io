@@ -38,11 +38,10 @@ Hello everyone, I'm Haotao Yao! I'm currently a first-year graduate student in L
 **Hao Fan**, Kai Liu, Jiangbo Wang, Jian Zhao
 
 [**Project**](https://www.elsevier.com/locate/aei) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 探索在多仓库多卡车多无人机条件下，无人机与车辆的最优路径规划。实验证明，MD-EVRPD-TDT可以很好地解决此类问题，并相较于传统算法效率提高10%-40%。 
-</div>
-</div>
-
+- 探索在多仓库多卡车多无人机条件下，无人机与车辆的最优路径规划。实验证明，MD-EVRPD-TDT可以很好地解决此类问题，并相较于传统算法效率提高10%-40%。
 - [数据集及实验源码](https://github.com)
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2025.09* 荣获硕士研究生学业x等奖学金，合肥工业大学
