@@ -30,19 +30,19 @@ Hello everyone, I'm Haotao Yao! I'm currently a first-year graduate student in L
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AEI 2026</div><img src='images/showcase.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-depot electric vehicle routing problem with drones considering time-dependent traffic]((https://linkinghub.elsevier.com/retrieve/pii/S1474034625009012))
 
 **Hao Fan**, Kai Liu, Jiangbo Wang, Jian Zhao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://www.elsevier.com/locate/aei) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 探索在多仓库多卡车多无人机条件下，无人机与车辆的最优路径规划。实验证明，MD-EVRPD-TDT可以很好地解决此类问题，并相较于传统算法效率提高10%-40%。 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [数据集及实验源码](https://github.com)
 
 # 🎖 Honors and Awards
 - *2025.09* 荣获硕士研究生学业x等奖学金，合肥工业大学
