@@ -30,17 +30,29 @@ Hello everyone, I'm Haotao Yao! I'm currently a first-year graduate student in L
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AEI 2026</div><img src='images/showcase.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+
+<!-- 左侧图片 -->
+<div class='paper-box-image'>
+  <div>
+    <div class="badge">会议 年份</div>
+    <img src='images/xxx.png' width="100%">
+  </div>
+</div>
+
+<!-- 右侧内容 -->
 <div class='paper-box-text' markdown="1">
 
-[Multi-depot electric vehicle routing problem with drones considering time-dependent traffic]((https://linkinghub.elsevier.com/retrieve/pii/S1474034625009012))
+[论文标题](论文链接)
 
-**Hao Fan**, Kai Liu, Jiangbo Wang, Jian Zhao
+**作者列表**
 
-[**Project**](https://www.elsevier.com/locate/aei) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 探索在多仓库多卡车多无人机条件下，无人机与车辆的最优路径规划。实验证明，MD-EVRPD-TDT可以很好地解决此类问题，并相较于传统算法效率提高10%-40%。
+[**Project**](项目链接)
 
-[**数据集及实验源码**](https://github.com)
+- 论文简介
+
+[**代码/数据**](GitHub链接)
+
 </div>
 </div>
 
