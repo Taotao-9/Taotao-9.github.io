@@ -25,7 +25,7 @@ Hello everyone, I'm Haotao Yao! I'm currently a first-year graduate student in L
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 参加“第 X 届中国物流学术年会”，上海
-- *2024.09*: &nbsp;🎉🎉 关于“多无人机协同路径规划”的最新综述论文已投稿至《xxxxx》期刊。
+- *2024.09*: &nbsp;🎉🎉 关于“多无人机协同路径规划”的[最新综述论文](files/CV_yaohaotao.pdf)已投稿至《xxxxx》期刊。
 - *2023.09*: &nbsp;🎉🎉 已在 GitHub 上发布针对 VRP 问题的 Python 基础算法库。
 
 # 📝 Publications 
